@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home_fragment"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Home"/>
+    <item
+        android:id="@+id/nav_email_fragment"
+        android:icon="@mipmap/gmail"
+        android:title="Email"/>
+    <item
+        android:id="@+id/nav_calendar_fragment"
+        android:icon="@mipmap/calender"
+        android:title="Calendar"/>
+</menu>
+    <!-- Loome navigation menu, kus me paneme kõik fragmentid koos ID ja algandmetega kirja-->
